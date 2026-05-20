@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-19T04:40:59Z",
+  "lastUpdated": "2026-05-20T04:45:02Z",
   "snapshots": {
     "week": {
-      "date": "2026-05-13T04:28:23Z",
+      "date": "2026-05-20T04:45:02Z",
       "ranks": {
         "votrubac": 1,
         "DBabichev": 2,
@@ -53,7 +53,7 @@
       "streak": 49,
       "dailySolved": 0,
       "weeklySolved": 6,
-      "weeklyDelta": -3,
+      "weeklyDelta": -1,
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
@@ -121,14 +121,14 @@
     },
     {
       "username": "tcoz",
-      "totalSolved": 106,
+      "totalSolved": 107,
       "easySolved": 30,
-      "mediumSolved": 65,
+      "mediumSolved": 66,
       "hardSolved": 11,
       "streak": 56,
       "dailySolved": 0,
-      "weeklySolved": 29,
-      "weeklyDelta": 15,
+      "weeklySolved": 30,
+      "weeklyDelta": 13,
       "totalDelta": 1,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
