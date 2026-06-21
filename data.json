@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T04:50:01Z",
+  "lastUpdated": "2026-06-21T05:24:42Z",
   "snapshots": {
     "week": {
       "date": "2026-06-18T05:15:00Z",
@@ -22,17 +22,23 @@
       }
     },
     "month": {
-      "date": "2026-05-21T04:51:58Z",
+      "date": "2026-06-21T05:24:42Z",
       "ranks": {
         "votrubac": 1,
-        "DBabichev": 2,
-        "lee215": 3,
-        "leetcodegrindtt": 4,
-        "neal_wu": 5,
-        "errichto": 6,
-        "tcoz": 7,
-        "n5sOI0EAsN": 8,
-        "neet_code": 9
+        "leetgoat_dot_io": 2,
+        "DBabichev": 3,
+        "jamesperaltaSWE": 4,
+        "lee215": 5,
+        "leetcodegrindtt": 6,
+        "IVIOIST": 7,
+        "neal_wu": 8,
+        "errichto": 9,
+        "tcoz": 10,
+        "n5sOI0EAsN": 11,
+        "devon-clark": 12,
+        "vini_01708": 13,
+        "neet_code": 14,
+        "jnn": 15
       }
     }
   },
@@ -54,18 +60,18 @@
     },
     {
       "username": "leetgoat_dot_io",
-      "totalSolved": 3462,
-      "easySolved": 915,
-      "mediumSolved": 1835,
-      "hardSolved": 712,
-      "streak": 105,
-      "dailySolved": 6,
-      "weeklySolved": 67,
-      "weeklyDelta": -12,
-      "totalDelta": 3,
+      "totalSolved": 3479,
+      "easySolved": 918,
+      "mediumSolved": 1844,
+      "hardSolved": 717,
+      "streak": 106,
+      "dailySolved": 11,
+      "weeklySolved": 74,
+      "weeklyDelta": -13,
+      "totalDelta": 17,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": null
+      "rankDeltaMonth": 0
     },
     {
       "username": "DBabichev",
@@ -75,27 +81,27 @@
       "hardSolved": 591,
       "streak": 49,
       "dailySolved": 0,
-      "weeklySolved": 8,
-      "weeklyDelta": 0,
+      "weeklySolved": 6,
+      "weeklyDelta": -4,
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -1
+      "rankDeltaMonth": 0
     },
     {
       "username": "jamesperaltaSWE",
-      "totalSolved": 766,
-      "easySolved": 226,
-      "mediumSolved": 474,
+      "totalSolved": 769,
+      "easySolved": 227,
+      "mediumSolved": 476,
       "hardSolved": 66,
       "streak": 2,
-      "dailySolved": 0,
-      "weeklySolved": 0,
-      "weeklyDelta": -19,
-      "totalDelta": 0,
+      "dailySolved": 6,
+      "weeklySolved": 6,
+      "weeklyDelta": -6,
+      "totalDelta": 3,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": null
+      "rankDeltaMonth": 0
     },
     {
       "username": "lee215",
@@ -110,7 +116,7 @@
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -2
+      "rankDeltaMonth": 0
     },
     {
       "username": "leetcodegrindtt",
@@ -125,22 +131,22 @@
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -2
+      "rankDeltaMonth": 0
     },
     {
       "username": "IVIOIST",
-      "totalSolved": 475,
+      "totalSolved": 479,
       "easySolved": 197,
-      "mediumSolved": 244,
-      "hardSolved": 34,
+      "mediumSolved": 247,
+      "hardSolved": 35,
       "streak": 60,
-      "dailySolved": 0,
-      "weeklySolved": 41,
-      "weeklyDelta": 9,
-      "totalDelta": 2,
+      "dailySolved": 3,
+      "weeklySolved": 44,
+      "weeklyDelta": 19,
+      "totalDelta": 4,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": null
+      "rankDeltaMonth": 0
     },
     {
       "username": "neal_wu",
@@ -155,7 +161,7 @@
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -3
+      "rankDeltaMonth": 0
     },
     {
       "username": "errichto",
@@ -170,7 +176,7 @@
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -3
+      "rankDeltaMonth": 0
     },
     {
       "username": "tcoz",
@@ -179,12 +185,12 @@
       "mediumSolved": 72,
       "hardSolved": 11,
       "streak": 56,
-      "dailySolved": 1,
-      "weeklySolved": 11,
-      "weeklyDelta": 3,
+      "dailySolved": 0,
+      "weeklySolved": 12,
+      "weeklyDelta": 4,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -3
+      "rankDeltaMonth": 0
     },
     {
       "username": "n5sOI0EAsN",
@@ -198,7 +204,7 @@
       "weeklyDelta": 0,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -3
+      "rankDeltaMonth": 0
     },
     {
       "username": "devon-clark",
@@ -212,7 +218,7 @@
       "weeklyDelta": 0,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": null
+      "rankDeltaMonth": 0
     },
     {
       "username": "vini_01708",
@@ -226,7 +232,7 @@
       "weeklyDelta": 0,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": null
+      "rankDeltaMonth": 0
     },
     {
       "username": "neet_code",
@@ -241,7 +247,7 @@
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": -5
+      "rankDeltaMonth": 0
     },
     {
       "username": "jnn",
@@ -256,7 +262,7 @@
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
-      "rankDeltaMonth": null
+      "rankDeltaMonth": 0
     }
   ]
 }
