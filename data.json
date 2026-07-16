@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T03:43:50Z",
+  "lastUpdated": "2026-07-16T03:46:20Z",
   "snapshots": {
     "week": {
       "date": "2026-07-12T04:06:07Z",
@@ -60,23 +60,23 @@
     },
     {
       "username": "leetgoat_dot_io",
-      "totalSolved": 3556,
+      "totalSolved": 3557,
       "easySolved": 929,
       "mediumSolved": 1898,
-      "hardSolved": 729,
-      "streak": 130,
-      "dailySolved": 2,
-      "weeklySolved": 35,
-      "weeklyDelta": -60,
-      "totalDelta": 0,
+      "hardSolved": 730,
+      "streak": 131,
+      "dailySolved": 3,
+      "weeklySolved": 36,
+      "weeklyDelta": -46,
+      "totalDelta": 1,
       "demo": true,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
     },
     {
       "username": "DBabichev",
-      "totalSolved": 2360,
-      "easySolved": 513,
+      "totalSolved": 2361,
+      "easySolved": 514,
       "mediumSolved": 1250,
       "hardSolved": 597,
       "streak": 49,
@@ -126,9 +126,9 @@
       "hardSolved": 46,
       "streak": 68,
       "dailySolved": 0,
-      "weeklySolved": 29,
-      "weeklyDelta": -17,
-      "totalDelta": 1,
+      "weeklySolved": 14,
+      "weeklyDelta": -39,
+      "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 1
