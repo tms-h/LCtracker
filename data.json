@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T01:58:07Z",
+  "lastUpdated": "2026-08-21T02:06:36Z",
   "snapshots": {
     "week": {
       "date": "2026-08-20T01:58:07Z",
@@ -66,8 +66,8 @@
       "hardSolved": 767,
       "streak": 159,
       "dailySolved": 0,
-      "weeklySolved": 77,
-      "weeklyDelta": -16,
+      "weeklySolved": 79,
+      "weeklyDelta": -10,
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
@@ -75,8 +75,8 @@
     },
     {
       "username": "DBabichev",
-      "totalSolved": 2382,
-      "easySolved": 520,
+      "totalSolved": 2383,
+      "easySolved": 521,
       "mediumSolved": 1261,
       "hardSolved": 601,
       "streak": 49,
@@ -120,8 +120,8 @@
     },
     {
       "username": "IVIOIST",
-      "totalSolved": 636,
-      "easySolved": 245,
+      "totalSolved": 637,
+      "easySolved": 246,
       "mediumSolved": 336,
       "hardSolved": 55,
       "streak": 68,
