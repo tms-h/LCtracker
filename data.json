@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T05:53:10Z",
+  "lastUpdated": "2026-09-01T05:26:14Z",
   "snapshots": {
     "week": {
       "date": "2026-08-27T10:05:41Z",
@@ -65,9 +65,9 @@
       "mediumSolved": 1958,
       "hardSolved": 775,
       "streak": 159,
-      "dailySolved": 1,
-      "weeklySolved": 69,
-      "weeklyDelta": 2,
+      "dailySolved": 5,
+      "weeklySolved": 60,
+      "weeklyDelta": -13,
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
@@ -83,7 +83,7 @@
       "dailySolved": 0,
       "weeklySolved": 6,
       "weeklyDelta": -1,
-      "totalDelta": 1,
+      "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
@@ -125,10 +125,10 @@
       "mediumSolved": 346,
       "hardSolved": 58,
       "streak": 68,
-      "dailySolved": 1,
-      "weeklySolved": 19,
-      "weeklyDelta": -5,
-      "totalDelta": 1,
+      "dailySolved": 0,
+      "weeklySolved": 12,
+      "weeklyDelta": -11,
+      "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
@@ -188,7 +188,7 @@
       "dailySolved": 0,
       "weeklySolved": 5,
       "weeklyDelta": 5,
-      "totalDelta": 1,
+      "totalDelta": 0,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
     },
