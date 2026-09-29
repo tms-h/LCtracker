@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T05:41:36Z",
+  "lastUpdated": "2026-09-29T05:58:32Z",
   "snapshots": {
     "week": {
       "date": "2026-09-25T05:10:52Z",
@@ -65,9 +65,9 @@
       "mediumSolved": 1973,
       "hardSolved": 789,
       "streak": 159,
-      "dailySolved": 9,
+      "dailySolved": 2,
       "weeklySolved": 47,
-      "weeklyDelta": -2,
+      "weeklyDelta": 15,
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
@@ -95,7 +95,7 @@
       "mediumSolved": 479,
       "hardSolved": 66,
       "streak": 2,
-      "dailySolved": 3,
+      "dailySolved": 0,
       "weeklySolved": 3,
       "weeklyDelta": 3,
       "totalDelta": 0,
@@ -105,15 +105,15 @@
     },
     {
       "username": "IVIOIST",
-      "totalSolved": 686,
+      "totalSolved": 687,
       "easySolved": 259,
       "mediumSolved": 362,
-      "hardSolved": 65,
-      "streak": 75,
-      "dailySolved": 1,
-      "weeklySolved": 17,
-      "weeklyDelta": 4,
-      "totalDelta": 5,
+      "hardSolved": 66,
+      "streak": 76,
+      "dailySolved": 2,
+      "weeklySolved": 18,
+      "weeklyDelta": 7,
+      "totalDelta": 1,
       "demo": true,
       "rankDeltaWeek": 1,
       "rankDeltaMonth": 1
@@ -187,7 +187,7 @@
       "streak": 56,
       "dailySolved": 0,
       "weeklySolved": 0,
-      "weeklyDelta": -12,
+      "weeklyDelta": -8,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
@@ -201,7 +201,7 @@
       "streak": 6,
       "dailySolved": 0,
       "weeklySolved": 0,
-      "weeklyDelta": -6,
+      "weeklyDelta": -5,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
