@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-01T06:18:36Z",
+  "lastUpdated": "2026-10-02T05:58:31Z",
   "snapshots": {
     "week": {
-      "date": "2026-09-25T05:10:52Z",
+      "date": "2026-10-02T05:58:31Z",
       "ranks": {
         "votrubac": 1,
         "leetgoat_dot_io": 2,
         "DBabichev": 3,
         "jamesperaltaSWE": 4,
-        "lee215": 5,
-        "IVIOIST": 6,
+        "IVIOIST": 5,
+        "lee215": 6,
         "leetcodegrindtt": 7,
         "neal_wu": 8,
         "errichto": 9,
@@ -65,9 +65,9 @@
       "mediumSolved": 1975,
       "hardSolved": 789,
       "streak": 159,
-      "dailySolved": 2,
-      "weeklySolved": 48,
-      "weeklyDelta": 14,
+      "dailySolved": 1,
+      "weeklySolved": 46,
+      "weeklyDelta": 16,
       "totalDelta": 0,
       "demo": true,
       "rankDeltaWeek": 0,
@@ -109,13 +109,13 @@
       "easySolved": 259,
       "mediumSolved": 363,
       "hardSolved": 66,
-      "streak": 78,
+      "streak": 79,
       "dailySolved": 1,
       "weeklySolved": 12,
       "weeklyDelta": -2,
-      "totalDelta": 1,
+      "totalDelta": 0,
       "demo": true,
-      "rankDeltaWeek": 1,
+      "rankDeltaWeek": 0,
       "rankDeltaMonth": 1
     },
     {
@@ -130,7 +130,7 @@
       "weeklyDelta": -4,
       "totalDelta": 0,
       "demo": true,
-      "rankDeltaWeek": -1,
+      "rankDeltaWeek": 0,
       "rankDeltaMonth": -1
     },
     {
@@ -201,7 +201,7 @@
       "streak": 6,
       "dailySolved": 0,
       "weeklySolved": 0,
-      "weeklyDelta": -3,
+      "weeklyDelta": -2,
       "totalDelta": 0,
       "rankDeltaWeek": 0,
       "rankDeltaMonth": 0
